@@ -1,2 +1,0 @@
-#!/bin/bash
-grep -wF -e "$(whoami)" "$1"
