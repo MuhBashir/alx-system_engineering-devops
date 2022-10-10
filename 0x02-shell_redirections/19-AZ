@@ -1,2 +1,3 @@
-##!/bin/bash
-tr 'A' 'c' | tr 'Z' 'e'
+
+#!/bin/bash
+tr 'A' 'Z' | tr 'c' 'e'
