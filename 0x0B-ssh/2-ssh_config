@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#Thid script configures my srves yobcertsin confugration setting
+Host 179549-web-01
+    Hostname example.com
+    User ubuntu
+    IdentityFile ~/.ssh/school
+    PasswordAuthentication no
